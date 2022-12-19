@@ -1,0 +1,376 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div img {
+    width: 100px;
+    background-color: #3D3741;
+    border-radius: 10px;
+}
+
+/* this is father namber one   */
+
+.father {
+    min-height: 100vh;
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+
+}
+
+.father .navber {
+    padding: 10px;
+
+}
+
+.navber img {
+    float: left;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+
+ul li {
+    
+    float: right;
+    list-style: none;
+    padding: 10px 20px;
+    color: white;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.one {
+    font-size: x-large;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.btn1 {
+    margin-left: 10px;
+    background-color: transparent;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid white;
+    color: white;
+}
+
+h3 {
+
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+/* end  */
+
+*/ .chled1 {
+    display: inline-block;
+    width: 49%;
+}
+
+/* <!-- this is mather namber two -->
+ */
+
+
+.mather {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.chled1 {
+    float: left;
+    width: 49%;
+    margin-left: 20px;
+    margin-top: 30;
+
+}
+
+.chled2 {
+    float: left;
+    width: 49%;
+    font-size: large;
+}
+
+.img-one {
+    width: 80%;
+
+}
+
+.chled2 .chled3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+/*  this is img for second page  */
+
+.right123 {
+    width: 40px;
+    float: left;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.second-page {
+    float: left;
+}
+
+.right2 {
+    margin-left: 20px;
+    margin-top: 24px;
+    float: left;
+
+}
+
+.clear {
+    clear: both;
+}
+
+/* this is Third the name is grad-father  */
+
+
+.grand-father {
+    background-color: #F8F8F8;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.san-one {
+    float: left;
+    width: 49%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 120px;
+    font-size: larger;
+
+}
+
+.san-two {
+    float: left;
+    width: 49%;
+}
+
+.img-two {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 500px;
+}
+
+.clear2 {
+    clear: both;
+}
+
+/* this is grand-mather namber four */
+.grand-mather{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.son-three h2{
+    text-align: center;
+    font-size: x-large;
+}
+.son-three p {
+    text-align: center;
+    font-size: large;
+    opacity: 0.9;
+}
+
+
+
+.son-four{
+    float: left;
+}
+
+.son-five {
+    float: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 30%;
+    text-align: center;
+}
+
+.son-six {
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 30%;
+    text-align: center;
+}
+.son-seven {
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 30%;
+    text-align: center;
+    
+}
+
+.img-son-four {
+    width: 400px;
+}
+.clearthree {
+    clear: both;
+}
+.Retaj {
+    opacity: 0.9;
+}
+.son-three {
+    opacity: 0.9;
+}
+/* end grand-mather */
+
+
+/* this is your locatio for badg namber five  
+start
+*/
+.locatio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F8F8F8;
+}
+.location-s {
+    width: 50px;
+    float: left;
+  
+}
+ .p-two {
+    float: left;
+    font-size: larger;
+    margin-top: 10px;
+ }
+.locatio-one {
+    width: 55%;
+    float: left;
+    margin-left: 50PX;
+    margin-top: 50PX;
+   
+}
+
+.Screenshot {
+    width: 500px;
+    margin-left: 55PX;
+}
+.locatio-one h2 {
+    text-align: center;
+
+}
+.p {
+    text-align: center;
+    font-size: larger;
+    text-indent: 5px;
+    letter-spacing: 1px;
+}
+.clear-four { 
+    clear: both;
+}
+/* this is fotter */
+
+.fotter {
+background-color: #403D38;
+float: left;
+margin-top: 40PX;
+}
+.fotter h3 {
+    color: white;
+}
+.fotter-one {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 22%;
+    float: left;
+    font-size: larger;
+    line-height: 2;
+    color:#969696 ;
+
+}
+.fotter-two {
+    margin-top: 30px;
+
+    line-height: 2;
+    font-size: larger;
+    margin-left: 20px;
+    width: 22%;
+    float: left;
+    color:#969696 ;
+
+    
+}
+.fotter-three {
+    margin-top: 30px;   
+    line-height: 2;
+    font-size: larger;
+    margin-left: 20px;
+    width: 22%;
+    float: left;
+    color:#969696 ;
+
+    
+}
+.fotter-four {
+    margin-top: 30px;
+
+    color:#969696 ;
+    line-height: 2;
+    font-size: larger;
+    margin-left: 20px;
+    width: 22%;
+    float: left;
+    list-style: none;
+     color:#969696 ;
+    
+}
+.fotter-four a {
+    color: white;
+    text-decoration: none;
+
+    
+
+}
+
+
+.clear-fotter {
+    clear: both;
+}
+
+
+.last {
+    background-color: #353330;
+    text-align: center;
+ 
+
+}
+.last-one{
+    margin-top: 50px;
+    width: 300px;
+    padding: 15px;
+}
+
+.last-two {
+    color: white;
+
+}
+
+.last-three {
+    width: 200px;
+    margin-bottom: 50px;
+}
+
+.mahmoud {
+    background-color:olive;
+    padding: 15px;
+    color: white;
+    font-size: larger;
+    margin-top: 10PX;
+
+    
+ }
+ 
